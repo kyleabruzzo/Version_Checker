@@ -1,9 +1,9 @@
 {
   "version": "1.0.1",
-  "notes": "Test \n test2",
+  "notes": "\n-Added Ability To Change The Shop Area Duration On Map \n -Added The Positibility To Keep Or Lose The Item After Usage \n -Added Webhook System \n-Minor Fixes",
   "release_date": {
-    "day": 15,
-    "month": 4,
+    "day": 9,
+    "month": 5,
     "year": 2024
   }
 }
