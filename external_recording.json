@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "notes": "+Fixed Nui Size For All The Monitors \n +Added Theme System\n+Added Possibility to chose if you want to use the whitelist system or not",
+  "version": "1.0.2",
+  "notes": "+Fixed an error with the native 0xfa925ac00eb830b9",
   "release_date": {
-    "day": 9,
+    "day": 23,
     "month": 6,
     "year": 2024
   }
