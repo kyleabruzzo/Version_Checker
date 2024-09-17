@@ -1,1 +1,10 @@
 
+{
+  "version": "1.0.0",
+  "notes": "Initial Release",
+  "release_date": {
+    "day": 17,
+    "month": 9,
+    "year": 2024
+  }
+}
